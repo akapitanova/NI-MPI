@@ -3,6 +3,9 @@
 This repository contains an experimental evaluation of various **iterative methods** for solving linear systems, 
 focusing on their convergence properties depending on parameter **gamma (γ)** and **omega (ω)**.  
 
+**See the code at:** [kod_kapitann.ipynb](./kod_kapitann.ipynb)
+📄 **For detailed analysis and results, see this table: tabulka_kapitann.ods**
+
 ## 📌 Overview  
 
 ### 1️⃣ Jacobi Method
